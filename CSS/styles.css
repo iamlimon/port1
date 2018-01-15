@@ -213,6 +213,17 @@ a:hover {
     letter-spacing: 1px;
 }
 /* Showcase Section */
+#showcase-header {
+	margin-top: 50px;
+}
+.showcase-row {
+	background:lightgrey;
+	padding: 65px 0 65px 0;
+	clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
+}
+div.showcase-row:nth-of-type(even) {
+	background: #fff;
+}
 .showcase-text p{
 	font-size: 14px;
 	line-height: 20px;
