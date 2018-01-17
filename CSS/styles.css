@@ -290,7 +290,7 @@ button:focus {border:none;outline: none;}
 }
 .body-body {
 	margin-top: 0;
-	font-size: 27px;
+	font-size: 24px;
 }
 [class*=" devicon-"], [class^=devicon-] {
 	font-size: 50px;
